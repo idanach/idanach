@@ -1,0 +1,80 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="settings.performance_mode" />
+            <item index="1" class="java.lang.String" itemvalue="project[" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="div" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="email-validator" />
+            <item index="1" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="2" class="java.lang.String" itemvalue="Mako" />
+            <item index="3" class="java.lang.String" itemvalue="pyad" />
+            <item index="4" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="5" class="java.lang.String" itemvalue="PyMuPDF" />
+            <item index="6" class="java.lang.String" itemvalue="alembic" />
+            <item index="7" class="java.lang.String" itemvalue="greenlet" />
+            <item index="8" class="java.lang.String" itemvalue="plum-dispatch" />
+            <item index="9" class="java.lang.String" itemvalue="Flask-Cors" />
+            <item index="10" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="11" class="java.lang.String" itemvalue="cryptography" />
+            <item index="12" class="java.lang.String" itemvalue="authlib" />
+            <item index="13" class="java.lang.String" itemvalue="setuptools" />
+            <item index="14" class="java.lang.String" itemvalue="numpy" />
+            <item index="15" class="java.lang.String" itemvalue="click" />
+            <item index="16" class="java.lang.String" itemvalue="Faker" />
+            <item index="17" class="java.lang.String" itemvalue="certifi" />
+            <item index="18" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="19" class="java.lang.String" itemvalue="concurrent-log-handler" />
+            <item index="20" class="java.lang.String" itemvalue="Flask" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="replies" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
+      <option name="processCode" value="false" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
