@@ -30,9 +30,9 @@
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-                <img src="https://img.shields.io/badge/Batch-323330?style=for-the-badge&logo=https://raw.githubusercontent.com/idanach/idanach/main/assets/icons/batch.svg&logoColor=white" />
-                <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=https://raw.githubusercontent.com/idanach/idanach/main/assets/icons/powershell.svg&logoColor=white" />
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+                <img src="https://img.shields.io/badge/Batch-4b4d49?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4NCiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iOCIgcnk9IjgiIGZpbGw9IiMzMjMzMzAiLz4NCiAgPHBhdGggZD0iTTE0IDE2IEwyMiAyNCBMMTQgMzIiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4NCiAgPGxpbmUgeDE9IjI2IiB5MT0iMzIiIHgyPSIzNCIgeTI9IjMyIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+DQo8L3N2Zz4NCg==&logoColor=white" />
+                <img src="https://img.shields.io/badge/PowerShell-9fc2fe?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4NCiAgPHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iOCIgcnk9IjgiIGZpbGw9IiM1MzkxRkUiLz4NCiAgPHBhdGggZD0iTTE0IDE2IEwyMiAyNCBMMTQgMzIiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4NCiAgPGxpbmUgeDE9IjI2IiB5MT0iMzIiIHgyPSIzNCIgeTI9IjMyIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+DQo8L3N2Zz4NCg==&logoColor=white" />
                 <img src="https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white" />
                 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <br />
                 <strong>Future Goals:</strong><br />
@@ -55,7 +55,7 @@
         <tr>
             <td colspan="2" align="center">
                 <strong>Infrastructure & DevOps:</strong><br />
-                <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=https://raw.githubusercontent.com/idanach/idanach/main/assets/icons/windows.svg&logoColor=white" />
+                <img src="https://img.shields.io/badge/Windows-005ba3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iODgiIHdpZHRoPSI4OCI+DQogICAgPHBhdGggZD0iTTAgMTIuNDAybDM1LjY4Ny00Ljg2LjAxNiAzNC40MjMtMzUuNjcuMjAzem0zNS42NyAzMy41MjlsLjAyOCAzNC40NTNMLjAyOCA3NS40OC4wMjYgNDUuN3ptNC4zMjYtMzkuMDI1TDg3LjMxNCAwdjQxLjUyN2wtNDcuMzE4LjM3NnptNDcuMzI5IDM5LjM0OWwtLjAxMSA0MS4zNC00Ny4zMTgtNi42NzgtLjA2Ni0zNC43Mzl6IiBmaWxsPSIjMDBhZGVmIi8+DQo8L3N2Zz4=&logoColor=white" />
                 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
                 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
                 <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
