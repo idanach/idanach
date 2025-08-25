@@ -1,8 +1,3 @@
-<!-- Profile Views -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=idanach&label=Profile%20Views&style=flat&color=brightgreen" alt="views"/>
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sigmar&weight=900&size=35&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+There!+%F0%9F%91%8B;I'm+Idan+Achrak;Full-Stack+Developer;Automation+%7C+CI%2FCD+%7C+Infra;Clean+UI%2FUX+%7C+Pragmatic+Shipping" alt="Typing SVG" />
   
@@ -18,26 +13,11 @@
 - 🎓 Computer Science Student, strengthening my practical skills with a deep theoretical foundation.
 
 ---
+
 ### 🌱 I'm Currently...
 - 📚 Diving deep into the theoretical foundations of Computer Science. First up: **Linear Algebra**!
 - 🦀 Exploring low-level programming and performance with **Rust** as a personal development goal.
 - 💡 Looking for opportunities to apply CS theory to improve my DevOps and backend development practices.
-
----
-### 🔥 Featured Projects
-**A production-ready, one-command deployment script for a Flask, Nginx, and Gunicorn stack.**
-<p align="center">
-  <a href="https://github.com/idanach/flask-nginx-server-deployment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=idanach&repo=flask-nginx-server-deployment&theme=tokyonight&show_owner=true" />
-  </a>
-</p>
-
-**A simple Python tool to generate Windows .ico files from any image.**
-<p align="center">
-  <a href="https://github.com/idanach/Wicogen-windows-icon-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=idanach&repo=Wicogen-windows-icon-generator&theme=tokyonight&show_owner=true" />
-  </a>
-</p>
 
 ---
 
@@ -88,10 +68,27 @@
 
 ---
 
+### 🔥 Featured Projects
+**A production-ready, one-command deployment script for a Flask, Nginx, and Gunicorn stack.**
+<p align="center">
+  <a href="https://github.com/idanach/flask-nginx-server-deployment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=idanach&repo=flask-nginx-server-deployment&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
+**A simple Python tool to generate Windows .ico files from any image.**
+<p align="center">
+  <a href="https://github.com/idanach/Wicogen-windows-icon-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=idanach&repo=Wicogen-windows-icon-generator&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
+---
+
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idanach&show_icons=true&count_private=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=idanach&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=idanach&show_icons=true&count_private=true&theme=tokyonight" />
+    <img src="https://streak-stats.demolab.com?user=idanach&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -112,3 +109,7 @@
 </p>
 
 ---
+<!-- Profile Views -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=idanach&label=Profile%20Views&style=flat&color=brightgreen" alt="views"/>
+</p>
