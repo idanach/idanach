@@ -1,0 +1,13 @@
+// The profile page's private visit counter (src/index.js), at views.idanach.com.
+//   npx wrangler@4 deploy                         from this folder
+//   npx wrangler@4 secret put STATS_TOKEN         the key /stats asks for (kept out of this public repository)
+{
+  "name": "profile-views",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [{ "pattern": "views.idanach.com", "custom_domain": true }],
+  "durable_objects": { "bindings": [{ "name": "COUNTER", "class_name": "Counter" }] },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Counter"] }]
+}

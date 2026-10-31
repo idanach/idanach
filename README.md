@@ -41,3 +41,5 @@ Senior full-stack developer and DevOps engineer at Merkaz Ta'az (IDF), where I l
 
 - **[Wicogen](https://github.com/idanach/Wicogen-windows-icon-generator)**: pick a picture, or let it find one online, and Wicogen turns it into a Windows folder icon.
 - **[Launchpad, first generation](https://github.com/idanach/nginx-server-deployment)**: where Launchpad began, open under the MIT licence.
+
+<img src="https://views.idanach.com/github.svg" alt="" width="1" height="1">

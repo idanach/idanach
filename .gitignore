@@ -23,3 +23,6 @@ venv/
 README-old.md
 # drafts and their previews, made by tools/ while choosing
 drafts/
+
+# Wrangler's local cache (it holds the Cloudflare account's id and name)
+.wrangler/
