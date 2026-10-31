@@ -180,7 +180,7 @@ def banner_blueprint(look: str, faces: str) -> str:
             f'<pattern id="G" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M100 0H0V100" fill="none" stroke="{c["line"]}" stroke-width="1"/></pattern>'
             f'<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="{c["muted"]}"/></marker></defs>')
     nx0, nx1 = 290, 910
-    stack = [("DATABASE", "PostgreSQL · SQL Server"), ("SERVER", "Flask · REST APIs"), ("DEPLOY", "Docker · OpenShift"), ("INTERFACE", "React · TypeScript")]
+    stack = [("DATABASE", "PostgreSQL · SQL Server"), ("SERVER", "Flask · REST APIs"), ("DEPLOY", "Docker · CI/CD"), ("INTERFACE", "React · TypeScript")]
     bw, gap, by = 182, 34, 352
     bx0 = (W - (len(stack) * bw + len(stack) * gap + 150)) / 2
     boxes = ""
