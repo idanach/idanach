@@ -21,3 +21,5 @@ venv/
 
 # ignore old readme file
 README-old.md
+# drafts and their previews, made by tools/ while choosing
+drafts/
